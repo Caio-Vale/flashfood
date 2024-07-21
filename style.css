@@ -72,3 +72,8 @@ footer>ul {
     height: 10vh;
     background-color: black;
 }
+
+#coisa > ul {
+    display: flex;
+    justify-content: space-around;
+}
